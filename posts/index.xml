@@ -28,7 +28,10 @@
         
         
         
-          dddd +++ title = &amp;lsquo;Some_pic&amp;rsquo; date = 2023-12-13T07:35:40+02:00 draft = false image = &amp;ldquo;pic.jpg&amp;rdquo; +++ dddd 
+          code:
++++ title = &amp;lsquo;Some_pic&amp;rsquo; date = 2023-12-13T07:35:40+02:00 draft = false
++++
+![](/pic.jpg)
           
         
         </description>
